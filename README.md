@@ -1,6 +1,6 @@
 # CursoPlatzi
 
-**bold text** Cursos de Platzi
+** Cursos de Platzi**
 
 Mi primera contribución local para GitHub
 
